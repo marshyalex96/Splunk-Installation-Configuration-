@@ -20,6 +20,11 @@ Terminal command for splunk installion
 2- Create an account, if so login
 3- Download the MSI installer ( in this scenario we'll be downloading splunk enterprise 10.2.1 on windows using the oracle virtual box)
 <img width="1500" height="571" alt="1 - 4QDeT4A" src="https://cdn.phototourl.com/uploads/2026-03-22-ee02cc20-a32a-418c-af9f-0fa1acd7df40.png" />
-
-
+4-we will need to know what  will be done with our data once the configuration is complete, this is why its imperative to know what we are reading to comprehend all your enterprise information
+5-we going to customize options, so first we must check the agreement box and proceed to  "Customize Options" even if we don’t change the default configurations.
+6-Next we are given an option to select where we going to install splunk at 
+7- Install Splunk as a local System
+8- Set the credentials
+9- after setting up the credentials it will launch and  ask to please wait
+10- After its installation, go and try to connect to: https://127.0.0.1:8000 where it will ask for your credentials you're asked to create.
 
