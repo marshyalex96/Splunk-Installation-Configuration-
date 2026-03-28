@@ -26,7 +26,7 @@ Terminal command for splunk installion
 6-Next we are given an option to select where we going to install splunk at 
 7- Install Splunk as a local System
 8- Set the credentials
-<img width="1500" height="571" alt="1 - 4QDeT4A" src="https://github.com/user-attachments/assets/60cc1ffc-986c-4abf-87f5-0e4773c867a9" />
+<img width="1500" height="571" alt="1 - 4QDeT4A" src="https://cdn.phototourl.com/free/2026-03-28-f9a1de7c-c7cd-4490-8087-37c8f58e497f.png" />
 9- after setting up the credentials it will launch and  ask to please wait
 10- After its installation, go and try to connect to: https://127.0.0.1:8000 where it will ask for your credentials you're asked to create.
 
